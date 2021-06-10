@@ -17,7 +17,7 @@
 ## Regras de negócio
 
 - [x] Não cadastrar conta com CPF ja existente 
-- [] Não deve ser possivel fazer deposito para conta inexistente
-- [] Não deve ser possivel fazer saque para conta inexistente
-- [] Não deve ser possivel excluir conta inexistente
-- [] Não deve ser possivel fazer saque em conta com saldo insuficiente
+- [ ] Não deve ser possivel fazer deposito para conta inexistente
+- [ ] Não deve ser possivel fazer saque para conta inexistente
+- [ ] Não deve ser possivel excluir conta inexistente
+- [ ] Não deve ser possivel fazer saque em conta com saldo insuficiente
