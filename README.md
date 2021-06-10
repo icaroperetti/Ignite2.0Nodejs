@@ -5,12 +5,12 @@
 ### Requisitos
 
 - [x] Criar conta
-- [] Buscar extrato bancário
-- [] Realizar deposito
-- [] Realizar saque
-- [] Atualizar dados da conta
-- [] Obter dados da conta
-- [] Deletar contact
+- [ ] Buscar extrato bancário
+- [ ] Realizar deposito
+- [ ] Realizar saque
+- [ ] Atualizar dados da conta
+- [ ] Obter dados da conta
+- [ ] Deletar conta
 
 ---
 
