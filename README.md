@@ -9,8 +9,9 @@
 - [x] Realizar deposito
 - [x] Realizar saque
 - [x] Atualizar dados da conta
-- [ ] Obter dados da conta
-- [ ] Deletar conta
+- [x] Obter dados da conta
+- [x] Deletar conta
+- [x] Retornar balance
 
 ---
 
@@ -20,4 +21,4 @@
 - [x] Não deve ser possivel fazer deposito para conta inexistente
 - [x] Não deve ser possivel fazer saque para conta inexistente
 - [x] Não deve ser possivel excluir conta inexistente
-- [ ] Não deve ser possivel fazer saque em conta com saldo insuficiente
+- [x] Não deve ser possivel fazer saque em conta com saldo insuficiente
