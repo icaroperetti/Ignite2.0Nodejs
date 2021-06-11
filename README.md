@@ -6,7 +6,7 @@
 
 - [x] Criar conta
 - [x] Buscar extrato bancário
-- [ ] Realizar deposito
+- [x] Realizar deposito
 - [ ] Realizar saque
 - [ ] Atualizar dados da conta
 - [ ] Obter dados da conta
